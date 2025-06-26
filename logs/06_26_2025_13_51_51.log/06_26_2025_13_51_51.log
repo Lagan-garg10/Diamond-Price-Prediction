@@ -1,0 +1,20 @@
+[2025-06-26 13:51:54,318] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-26 13:51:54,333] 97 werkzeug - INFO -  * Debugger PIN: 123-070-441
+[2025-06-26 13:52:01,080] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-06-26 13:52:01,162] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:01,230] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:01,291] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:01] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=dZW2dFh7y6gqrOpLxUUX HTTP/1.1" 200 -
+[2025-06-26 13:52:01,315] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:05,246] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:05] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-06-26 13:52:05,281] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:05,306] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:05,341] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=dZW2dFh7y6gqrOpLxUUX HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:05,390] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:13,870] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:13] "GET / HTTP/1.1" 200 -
+[2025-06-26 13:52:17,178] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:17] "GET /predict HTTP/1.1" 200 -
+[2025-06-26 13:52:37,688] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-06-26 13:52:37,720] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:37,741] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:37,785] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=dZW2dFh7y6gqrOpLxUUX HTTP/1.1[0m" 304 -
+[2025-06-26 13:52:37,815] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:52:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-06-26 13:54:07,817] 97 werkzeug - INFO -  * Detected change in 'E:\\coding concept\\projects\\DiamondPricePrediction\\application.py', reloading

@@ -1,0 +1,9 @@
+[2025-06-26 13:54:12,128] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-26 13:54:12,143] 97 werkzeug - INFO -  * Debugger PIN: 123-070-441
+[2025-06-26 13:54:13,224] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:54:13] "GET /predict HTTP/1.1" 200 -
+[2025-06-26 13:54:51,456] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:54:51] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-06-26 13:54:51,515] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:54:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-06-26 13:54:51,519] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:54:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-06-26 13:54:51,558] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:54:51] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=Bx5UU1XPNX19EEzilG1y HTTP/1.1" 200 -
+[2025-06-26 13:54:51,600] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 13:54:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-06-26 13:55:35,895] 97 werkzeug - INFO -  * Detected change in 'E:\\coding concept\\projects\\DiamondPricePrediction\\application.py', reloading
